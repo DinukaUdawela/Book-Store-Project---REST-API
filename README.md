@@ -54,7 +54,7 @@ This project is a web application for a Book Store built using the MERN stack (M
 
 1. Clone the repository:
    ```sh
-   git clone https://github.com/yourusername/book-store-mern.git
+   git clone https://github.com/DinukaUdawela/Book-Store-Project---REST-API.git
    cd book-store-mern/backend
    ```
 
